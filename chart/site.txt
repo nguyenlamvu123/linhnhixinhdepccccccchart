@@ -1,0 +1,7 @@
+https://www.fusioncharts.com/dev/getting-started/django/your-first-chart-using-django
+
+project: linhnhixinhdepccccccchart
+app: chart
+
+fusioncharts-suite-xt\Integrations\django\fusioncharts-wrapper\\fusioncharts.py: coppy paste in app directory
+fusioncharts-suite-xt \js: coppy all in .\linhnhixinhdepccccccchart\chart\static\chart
